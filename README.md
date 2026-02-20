@@ -1,5 +1,7 @@
 # go-typedpipe
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/fikrimohammad/go-typedpipe.svg)](https://pkg.go.dev/github.com/fikrimohammad/go-typedpipe)
+
 `go-typedpipe` provides a generic, in-memory, concurrency-safe pipe.
 
 It connects a `Writer[T]` and a `Reader[T]` for streaming typed values between goroutines with:
